@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "autocannon": "^7.11.0",
+    "uuid": "^9.0.0"
+  }
+}
